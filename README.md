@@ -4,3 +4,5 @@
 ![预览图](2025-01-16%2019%2035%2039.png)
 ## 使用方法
 放到存档根目录,双击save_manager.py运行.
+## 使用方法
+目前不支持[Magpie](https://github.com/Blinue/Magpie),不支持存档覆盖,但是后续会更新.
