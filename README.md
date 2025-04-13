@@ -4,6 +4,11 @@
 ![image](2025-02-15_21_47_37_393.png)
 ![image](2025-02-13_13_32_04_145.png)
 
+# 三件套必须同时使用
+[https://github.com/sedoruee/SDDB](https://github.com/sedoruee/SDDB)
+[https://github.com/sedoruee/Windows-Sidebar](https://github.com/sedoruee/Windows-Sidebar)
+[https://github.com/sedoruee/Save_Manager](https://github.com/sedoruee/Save_Manager)
+
 ## 部署教程
 请下载Save_Manager.zip并且将压缩包里的文件解压到D:\Tools\Save_manager文件夹下（不支持其他路径）
 
